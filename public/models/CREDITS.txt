@@ -1,0 +1,6 @@
+AER ONE's mesh adapts Square smartwatch by Innerscene, released under CC0 1.0.
+https://www.innerscene.com/tools/library/3d-parts/square-smartwatch-7b82b808
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Changes for AER ONE: original analogue dial, surface finishes, smaller
+embedded maps, studio lighting, and catalogue renders.
